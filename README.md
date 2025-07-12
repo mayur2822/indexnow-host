@@ -1,0 +1,2 @@
+# indexnow-host
+for indexing
